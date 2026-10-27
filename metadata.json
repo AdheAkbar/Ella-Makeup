@@ -1,0 +1,6 @@
+{
+  "name": "Ella Makeup",
+  "description": "Aplikasi Booking Client untuk Makeup Artist (MUA)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
